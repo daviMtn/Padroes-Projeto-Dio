@@ -13,10 +13,10 @@ public class CepApi {
 	}
 	
 	public String recuperarCidade(String cep) {
-		return "Araraquara";
+		return "Salvador";
 	}
 	
 	public String recuperarEstado(String cep) {
-		return "SP";
+		return "BA";
 	}
 }
